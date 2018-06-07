@@ -30,3 +30,7 @@ A repository for hands-on tutorial for Git and GitHub
 * `git pull` : pull commits from remote repo
 
 #### My favorite Git cheatsheet:  https://www.atlassian.com/dam/jcr:8132028b-024f-4b6b-953e-e68fcce0c5fa/atlassian-git-cheatsheet.pdf
+
+### Concept Map
+
+![Basic Git Concepts](design/concept.svg)
