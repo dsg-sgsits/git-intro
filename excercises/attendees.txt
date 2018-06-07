@@ -1,3 +1,4 @@
 Enter your names below:
 
 Seat 01: Vaibhav Shrivastava
+seat 02: Samiksha Agrawal
