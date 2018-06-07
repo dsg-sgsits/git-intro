@@ -1,4 +1,6 @@
 Enter your names below:
 
 Seat 01: Vaibhav Shrivastava
+Seat 11: Rishi Chawla
+seat 12: Labhayam sharma
 Seat 13: Srijan Jain
