@@ -6,5 +6,6 @@ seat 12: Labhayam sharma
 Seat 13: Srijan Jain
 Seat 14: Sriyansh Jain
 Seat 16: Gautam Patidar
+Seat 21: Nancy Agrawal
 Seat 23: Naman Juneja
 Seat 24: Neha Pahuja
