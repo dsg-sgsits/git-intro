@@ -1,3 +1,5 @@
 Enter your names below:
 
 Seat 01: Vaibhav Shrivastava
+Seat 23: Naman Juneja
+
