@@ -10,7 +10,7 @@ A repository for hands-on tutorial for Git and GitHub
 * `cat` : "concatenate", used to print the contents of a file
 
 #### Basic git commands for working on our local repo
-* `git init` : initialize a new git repo
+* `git init` : initialize a new git repository
 * `git status` : lists files/folders that are unstated/staged, untracked, deleted - do this often!
 * `git add` : add specified file(s) to staging
 * `git add .` : add all edited files to staging
