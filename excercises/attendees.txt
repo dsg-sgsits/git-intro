@@ -12,3 +12,4 @@ Seat 16: Gautam Patidar
 Seat 21: Nancy Agrawal
 Seat 23: Naman Juneja
 Seat 24: Neha Pahuja
+Seat 28: Sarthak 
